@@ -1,0 +1,8 @@
+pyrogram
+cloudinary
+lxml
+bs4
+redis
+requests
+asyncio
+flask
