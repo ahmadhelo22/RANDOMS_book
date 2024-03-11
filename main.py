@@ -439,7 +439,7 @@ async def skip_ad_windos(bot:Client, msg:Message):
         
         try:
             #رابط الفيديو
-            vidio_dir = "http://res.cloudinary.com/dfcge5cyk/video/upload/v1708674277/randoms/randoms_pc/qd9giznboludecvhctku.mp4"
+            vidio_dir = "https://res.cloudinary.com/dfcge5cyk/video/upload/v1710154370/randoms/RANDOMS_book/gexr0nuapahdirv9qvhm.mp4"
             #ارسال الفيديو
             await bot.send_video(user_id, vidio_dir)
         except:
@@ -470,7 +470,7 @@ async def skip_ad_windos(bot:Client, msg:Message):
 
         try:
             #رابط الفيديو
-            vidio_dir = "https://res.cloudinary.com/dfcge5cyk/video/upload/v1708685008/randoms/randoms_pc/yfnhfu9ifjnarrjrq4ql.mp4"
+            vidio_dir = "https://res.cloudinary.com/dfcge5cyk/video/upload/v1710166943/randoms/RANDOMS_book/y9tfwawsgpzefdifgkzz.mp4"
             #ارسال الفيديو
             await bot.send_video(user_id, vidio_dir)
         except:
@@ -501,7 +501,7 @@ async def skip_ad_windos(bot:Client, msg:Message):
 
         try:
             #رابط الفيديو
-            vidio_dir = "https://res.cloudinary.com/dfcge5cyk/video/upload/v1708690569/randoms/randoms_pc/yiexgixbr9zaaryaxhfp.mp4"
+            vidio_dir = "https://res.cloudinary.com/dfcge5cyk/video/upload/v1710157151/randoms/RANDOMS_book/pvrop1nhfhozeuhe4iak.mp4"
             #ارسال الفيديو
             await bot.send_video(user_id, vidio_dir)
         except:
